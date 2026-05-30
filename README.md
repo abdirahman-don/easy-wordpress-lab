@@ -16,4 +16,5 @@ Before you begin, make sure you have Docker and Docker Compose installed on your
 ​5. Complete the famous 5-minute WordPress installation wizard!
 ​How to Tear it Down
 ​If you want to delete the environment and wipe the data clean, run:
+   '''bash
    docker-compose down -v
