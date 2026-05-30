@@ -18,3 +18,4 @@ Before you begin, make sure you have Docker and Docker Compose installed on your
 ​If you want to delete the environment and wipe the data clean, run:
    '''bash
    docker-compose down -v
+   '''
